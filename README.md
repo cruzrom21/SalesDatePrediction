@@ -231,4 +231,16 @@ Para probar la funcionalidad de predicción de órdenes:
 
 ---
 
-Si necesitas más ajustes o información, ¡avísame!
+## Resultados de las Pruebas
+
+Aquí se muestran algunas imágenes que demuestran las pruebas realizadas.
+
+### Prueba de Ejecución del API
+![Prueba de API](Imagen/Api.png)
+
+### Prueba de Interacción en Angular
+![Prueba Angular](Imagen/Angular.png)
+
+### Prueba de Visualización en Vanilla JS
+![D3JS](Imagen/d3js.png)
+
