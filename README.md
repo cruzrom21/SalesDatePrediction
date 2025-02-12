@@ -131,14 +131,8 @@ Se recomienda abrir el proyecto en Visual Studio.
     }
     ```
 
-5. Ejecuta el proyecto desde Visual Studio o utilizando:
-
-    ```bash
-    dotnet run
-    ```
-
-Esto debería iniciar todos los microservicios y el API Gateway.  
-
+5. Ejecuta el proyecto, se debe configurar la ejecucion de todos los proyectos api de cada microservicio y el gateway todos al tiempo para su conrrecto funcionamiento.
+   
 ---
 
 ### Frontend Angular
