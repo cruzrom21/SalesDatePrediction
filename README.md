@@ -58,7 +58,7 @@ git clone https://github.com/cruzrom21/SalesDatePrediction.git
 
 ### Base de Datos
 
-Los scripts de base de datos están diseñados para **SQL Server** y se encuentran en la carpeta `ScriptsDB`.  
+Los scripts de base de datos están diseñados para **SQL Server** y se encuentran en la carpeta `DMLs SqlSever`.  
 
 - Incluyen la creación de **procedimientos almacenados** y **vistas**.  
 - **Solo las vistas** son necesarias para que funcione el API en .NET.  
