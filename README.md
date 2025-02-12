@@ -239,7 +239,8 @@ Aquí se muestran algunas imágenes que demuestran las pruebas realizadas.
 ![Prueba de API](Imagen/Api.png)
 
 ### Prueba de Interacción en Angular
-![Prueba Angular](Imagen/Angular.png)
+![Prueba Angular](Imagen/Angular.png).
+![Prueba Angular](Imagen/Angular2.png)
 
 ### Prueba de Visualización en Vanilla JS
 ![D3JS](Imagen/d3js.png)
