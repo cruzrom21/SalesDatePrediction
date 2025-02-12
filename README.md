@@ -58,7 +58,7 @@ git clone https://github.com/cruzrom21/SalesDatePrediction.git
 
 ### Base de Datos
 
-Los scripts de base de datos están diseñados para **SQL Server** y se encuentran en la carpeta `ScriptsDB`.  
+Los scripts de base de datos están diseñados para **SQL Server** y se encuentran en la carpeta `DMLs SqlSever`.  
 
 - Incluyen la creación de **procedimientos almacenados** y **vistas**.  
 - **Solo las vistas** son necesarias para que funcione el API en .NET.  
@@ -131,14 +131,8 @@ Se recomienda abrir el proyecto en Visual Studio.
     }
     ```
 
-5. Ejecuta el proyecto desde Visual Studio o utilizando:
-
-    ```bash
-    dotnet run
-    ```
-
-Esto debería iniciar todos los microservicios y el API Gateway.  
-
+5. Ejecuta el proyecto, se debe configurar la ejecucion de todos los proyectos api de cada microservicio y el gateway todos al tiempo para su conrrecto funcionamiento.
+   
 ---
 
 ### Frontend Angular
