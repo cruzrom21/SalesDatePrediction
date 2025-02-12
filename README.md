@@ -231,7 +231,7 @@ Para probar la funcionalidad de predicción de órdenes:
 
 - Se optó por **vistas** en lugar de procedimientos almacenados en el backend para realizar los test con **XUnit** de manera más completa.  
 - Los **procedimientos almacenados** incluidos en los scripts de base de datos son para demostrar el conocimiento en **sentencias DML**.  
-- No fueron usados en el API ya que la ejecución de procedimientos almacenados **no es compatible con las pruebas unitarias** en XUnit.  
+- No fueron usados en el API ya que la ejecución de procedimientos almacenados **no es compatible con las pruebas unitarias** con InMemory.  
 - El frontend en Angular interactúa con el **API Gateway** para gestionar las órdenes.  
 - El frontend en Vanilla JS utiliza **D3.js** para visualizaciones simples y no requiere configuración adicional.  
 
