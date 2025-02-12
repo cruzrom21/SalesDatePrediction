@@ -1,0 +1,12 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\bin\Debug\net8.0\Sales.Models.Domain.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\bin\Debug\net8.0\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\bin\Debug\net8.0\Sales.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\refint\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\ref\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Models\Sales.Models.Domain\obj\Debug\net8.0\Sales.Models.Domain.csproj.AssemblyReference.cache

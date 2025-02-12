@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Services.Orders.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Services.Orders.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Services.Orders.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\bin\Debug\net8.0\Sales.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Se.63D88FAB.Up2Date
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\refint\Sales.Services.Orders.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\Sales.Services.Orders.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Services\Sales.Services.Orders\obj\Debug\net8.0\ref\Sales.Services.Orders.dll

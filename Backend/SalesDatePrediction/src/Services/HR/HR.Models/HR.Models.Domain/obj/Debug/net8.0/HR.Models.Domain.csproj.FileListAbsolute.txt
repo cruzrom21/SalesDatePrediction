@@ -1,0 +1,11 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\bin\Debug\net8.0\HR.Models.Domain.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\bin\Debug\net8.0\HR.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\bin\Debug\net8.0\HR.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\refint\HR.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\HR.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Models\HR.Models.Domain\obj\Debug\net8.0\ref\HR.Models.Domain.dll

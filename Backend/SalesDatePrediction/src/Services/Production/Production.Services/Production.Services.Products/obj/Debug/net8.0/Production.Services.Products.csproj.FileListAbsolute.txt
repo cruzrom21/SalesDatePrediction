@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Services.Products.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Services.Products.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Services.Products.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\refint\Production.Services.Products.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\ref\Production.Services.Products.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\bin\Debug\net8.0\Production.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Production.Services.Products.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Production\Production.Services\Production.Services.Products\obj\Debug\net8.0\Producti.01889387.Up2Date

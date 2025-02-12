@@ -1,0 +1,15 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\bin\Debug\net8.0\HR.Persistence.Database.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\bin\Debug\net8.0\HR.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\bin\Debug\net8.0\HR.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\refint\HR.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\ref\HR.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\bin\Debug\net8.0\HR.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\bin\Debug\net8.0\HR.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Persistence\HR.Persistence.Database\obj\Debug\net8.0\HR.Persi.A71FE7F6.Up2Date

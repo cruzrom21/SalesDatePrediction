@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#inputData {
+    width: 300px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+#updateDataBtn {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#chart {
+    margin-top: 20px;
+}
+
+.bar {
+    transition: all 0.3s ease;
+}

@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Shippers\\Sales.Services.Shippers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\Sales.Models.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\Sales.Models.Domain.csproj",
+        "projectName": "Sales.Models.Domain",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\Sales.Models.Domain.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\Sales.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\Sales.Persistence.Database.csproj",
+        "projectName": "Sales.Persistence.Database",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\Sales.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\Sales.Models.Domain.csproj": {
+                "projectPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Models\\Sales.Models.Domain\\Sales.Models.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Shippers\\Sales.Services.Shippers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Shippers\\Sales.Services.Shippers.csproj",
+        "projectName": "Sales.Services.Shippers",
+        "projectPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Shippers\\Sales.Services.Shippers.csproj",
+        "packagesPath": "C:\\Users\\cruzr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Shippers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\Sales.Persistence.Database.csproj": {
+                "projectPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Persistence\\Sales.Persistence.Database\\Sales.Persistence.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

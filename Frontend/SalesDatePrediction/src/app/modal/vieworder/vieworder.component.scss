@@ -1,0 +1,41 @@
+.dialog-header {
+    background-color: #b71c1c;
+    /* Rojo oscuro */
+    color: white;
+    font-weight: bold;
+}
+
+.dialog-content {
+    overflow: auto;
+    width: 97%;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px 5px rgba(0, 0, 0, 0.1);
+}
+
+mat-table {
+    width: 100%;
+}
+
+mat-header-cell,
+mat-cell {
+    text-align: center;
+}
+
+mat-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+}
+
+button {
+    margin-right: 15px;
+    margin-bottom: 7px;
+}
+
+button[color="warn"] {
+    color: red;
+}
+
+button[color="primary"] {
+    color: green;
+}

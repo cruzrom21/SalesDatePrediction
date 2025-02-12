@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Services.Employees.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Services.Employees.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Services.Employees.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\refint\HR.Services.Employees.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\ref\HR.Services.Employees.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\bin\Debug\net8.0\HR.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Services.Employees.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\HR\HR.Services\HR.Services.Employees\obj\Debug\net8.0\HR.Servi.99FDAD8D.Up2Date

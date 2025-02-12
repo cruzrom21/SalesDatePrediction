@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C5C1BA-365F-414F-A54F-943EE75B33FA}|src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\Sales.Services.Orders.csproj|c:\\users\\cruzr\\source\\repos\\salesdateprediction\\src\\services\\sales\\sales.services\\sales.services.orders\\ordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C5C1BA-365F-414F-A54F-943EE75B33FA}|src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\Sales.Services.Orders.csproj|solutionrelative:src\\services\\sales\\sales.services\\sales.services.orders\\ordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B775D4-A43C-4B24-A244-36D4675D8D2A}|src\\Services\\Sales\\Sales.Api\\Sales.Api\\Sales.Api.csproj|c:\\users\\cruzr\\source\\repos\\salesdateprediction\\src\\services\\sales\\sales.api\\sales.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B775D4-A43C-4B24-A244-36D4675D8D2A}|src\\Services\\Sales\\Sales.Api\\Sales.Api\\Sales.Api.csproj|solutionrelative:src\\services\\sales\\sales.api\\sales.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C467B-DFDF-4A56-9DAE-26FCBFCD9535}|src\\Gateway\\Api.Gateway.WebClient\\Api.Gateway.WebClient.csproj|c:\\users\\cruzr\\source\\repos\\salesdateprediction\\src\\gateway\\api.gateway.webclient\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203C467B-DFDF-4A56-9DAE-26FCBFCD9535}|src\\Gateway\\Api.Gateway.WebClient\\Api.Gateway.WebClient.csproj|solutionrelative:src\\gateway\\api.gateway.webclient\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Api\\Sales.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Sales\\Sales.Api\\Sales.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Api\\Sales.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "src\\Services\\Sales\\Sales.Api\\Sales.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:24:29.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Gateway\\Api.Gateway.WebClient\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "src\\Gateway\\Api.Gateway.WebClient\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Gateway\\Api.Gateway.WebClient\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "src\\Gateway\\Api.Gateway.WebClient\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:05:10.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersServices.cs",
+              "DocumentMoniker": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\OrdersServices.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\OrdersServices.cs",
+              "ToolTip": "C:\\Users\\cruzr\\source\\repos\\SalesDatePrediction\\src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\OrdersServices.cs",
+              "RelativeToolTip": "src\\Services\\Sales\\Sales.Services\\Sales.Services.Orders\\OrdersServices.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T02:05:10.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

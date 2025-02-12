@@ -1,0 +1,17 @@
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Persistence.Database.deps.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Persistence.Database.runtimeconfig.json
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Models.Domain.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\bin\Debug\net8.0\Sales.Models.Domain.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.csproj.AssemblyReference.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.AssemblyInfoInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.AssemblyInfo.cs
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Pe.5795ECD6.Up2Date
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\refint\Sales.Persistence.Database.dll
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.pdb
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\Sales.Persistence.Database.genruntimeconfig.cache
+C:\Users\cruzr\source\repos\SalesDatePrediction\src\Services\Sales\Sales.Persistence\Sales.Persistence.Database\obj\Debug\net8.0\ref\Sales.Persistence.Database.dll
